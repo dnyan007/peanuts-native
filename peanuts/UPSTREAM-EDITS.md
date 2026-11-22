@@ -1399,3 +1399,4 @@ The Trinity reader in `dm/gfx/tools/shader_split.py` narrows a recognized build 
 | `README.md`, `peanuts/docs/README.github.md` | 1 + 1 each | the game's table row and its paragraph under Upcoming in 0.1.6 | inside the files' `PEANUTS` sections |
 | `dm/games/01002B00111A2000/game.tsv`, `dm/games/01002B00111A2000/README.md` | 1, 1 | Hyrule Warriors: Age of Calamity on Android: frame limits Game owned, 30 and 60 (the frame step's targets), measured on an AYN Thor; the note's Android section | `PEANUTS` |
 | `dm/games/01002B00111A2000/vk_prewarm.bin` | new | its Turnip prewarm seed (242 keys) | allow-listed in `peanuts/upstream-unmarked.txt` |
+| `dm/games/010075101EF84000/game.tsv`, `dm/games/010075101EF84000/README.md` | 1, 1 | Stray (`010075101EF84000`, base 1.0.0, SDK 17.5.6, Unreal Engine 4) profile and Android bring-up note on POCO F7 | `PEANUTS` |

@@ -215,3 +215,9 @@ dm/games/01007A2027548000/pso_pairs.tsv	Generated supplemental pair list. Keep t
 dm/games/01007A2027548000/shader_files.tsv	Generated shader-bearing file inventory for the targeted split.
 dm/games/0100000000010000/vk_programs.bin	the program list of the preparing step (vka_pso.c pp_prepare), the learned programs file of this fork's run of the game on an AYN Thor (Turnip), 2026-11-20: binary, 64-byte records of shader keys and part states, new in Peanuts Native
 dm/games/01002B00111A2000/vk_prewarm.bin	Pipeline keys recorded on Thor with Turnip v26.2.0-R5 (boot, intro movie, the Hyrule Field battle) and verified before guest entry.
+dm/games/010075101EF84000/shader_map.tsv	Generated shader key and offset map. Keep the shader input stamp reproducible.
+dm/games/010075101EF84000/shader_map.tsv.conflicts.tsv	Generated duplicate-key conflict log from shader_split.py for Stray.
+dm/games/010075101EF84000/shader_facts.tsv	Generated compute launch dimensions. Keep the shader input stamp reproducible.
+dm/games/010075101EF84000/shader_pairs.tsv	Generated vertex and pixel key pairs. Keep the shader input stamp reproducible.
+dm/games/010075101EF84000/pso_manifest.tsv	Generated prewarm seed list for Stray.
+dm/games/010075101EF84000/bf_want.tsv	Generated buffer-format table for Stray.
