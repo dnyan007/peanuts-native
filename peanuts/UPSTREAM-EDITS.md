@@ -2097,3 +2097,4 @@ Tears of the Kingdom's Depths caves drew chunks with another chunk's vertices fo
 | `docs/reference/rendering.md`, `docs/agents/symptoms.md` | 1 each | the entry and its symptom line | `<!-- PEANUTS -->` |
 
 Tests: the `t_android_*` suite; on the AYN Thor (Turnip v26.2.0-R5), the owner's Depths cave save: per-frame cave draw count changes 906 → 11 in about 1,300 frames. Upstream candidate: yes (the replay code is upstream's).
+| `dm/games/0100F9D023176000/game.tsv`, `dm/games/0100F9D023176000/README.md` | 1, 1 | Viewfinder (`0100F9D023176000`, base 1.0.0, SDK 19.3.9, Unity 2022.3.61f1 IL2CPP) 60 fps (`present_interval display`) and 16 GB alias memory profile on POCO F7 | `PEANUTS` |
